@@ -20,14 +20,14 @@
         <outputs/>
         <outputs/>
         <pre_compiled>false</pre_compiled>
-        <state>published</state>
+        <state>draft</state>
         <sys_class_name>sys_hub_action_type_definition</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-18 12:25:52</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9b1dd5d1471661508e7e7688c26d4336</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Get Property</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt Spoke" source="x_1021563_needit_s">29ecd1d9471661508e7e7688c26d43a6</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="NeedIt Spoke">29ecd1d9471661508e7e7688c26d43a6</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_9b1dd5d1471661508e7e7688c26d4336</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-18 12:44:29</sys_updated_on>
+        <sys_updated_on>2023-04-19 08:35:04</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -732,14 +732,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-18 12:41:30</sys_created_on>
         <sys_id>c8b0e1dd471661508e7e7688c26d4380</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="NeedIt Spoke">29ecd1d9471661508e7e7688c26d43a6</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-18 12:44:27</sys_updated_on>
+        <sys_updated_on>2023-04-19 08:35:04</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
